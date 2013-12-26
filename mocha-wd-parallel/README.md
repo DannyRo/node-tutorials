@@ -18,7 +18,7 @@ export SAUCE_ACCESS_KEY=<SAUCE_ACCESS_KEY>
 ## 2/ Install tools
 
 ```
-npm install mocha -g 
+npm install -g mocha
 ```
 
 ## 3/ Install local package
@@ -33,7 +33,7 @@ npm install
 
 - The browsers are configured in `desireds.js`
 - The mocha test suite is in `tutorial-specs.js`
-- The mocha test suite is in `parallel-mochas.js`
+- The parallel runner is in `parallel-mochas.js`
 
 ## 5/ Run tests
 
