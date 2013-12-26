@@ -1,4 +1,4 @@
-grunt-wd-parallel Tutorial
+Tutorial: parallel tests with Grunt, Mocha and WD.js 
 =============
 
 In this tutorial you will learn how to scaffold a project using `grunt-init-sauce`.
@@ -18,7 +18,7 @@ export SAUCE_ACCESS_KEY=<SAUCE_ACCESS_KEY>
 
 ```
 npm install grunt -g
-npm install grunt-init-g
+npm install grunt-init -g
 git clone git@github.com:saucelabs/grunt-init-sauce.git ~/.grunt-init/sauce
 ```
 
@@ -26,7 +26,7 @@ git clone git@github.com:saucelabs/grunt-init-sauce.git ~/.grunt-init/sauce
 
 ```
 mkdir tutorial && cd tutorial
-grunt init sauce # press enter when asked
+grunt-init sauce # press enter when asked
 npm install
 ```
 
