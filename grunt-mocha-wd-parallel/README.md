@@ -1,4 +1,4 @@
-Tutorial: parallel tests with Grunt, Mocha and WD.js 
+Parallel tests with Grunt, Mocha and WD.js 
 =============
 
 In this tutorial you will learn how to scaffold a project using `grunt-init-sauce`.
@@ -30,7 +30,13 @@ grunt-init sauce # press enter when asked
 npm install
 ```
 
-## 4/ Run tests
+## 4/ Inspect the code
+
+- The browsers are configured in `desireds.js`
+- The mocha test suite in `test/sauce/tutorial-specs.js`
+- The grunt configuration is in `Gruntfile.js`
+
+## 5/ Run tests
 
 ```
 grunt test:sauce:chrome
@@ -38,8 +44,12 @@ grunt test:sauce:firefox
 grunt test:sauce:explorer
 ```
 
-## 5/ Run tests in parallel
+Go [here](https://saucelabs.com/tests) to view the tests.
+
+## 6/ Run tests in parallel
 
 ```
 grunt test:sauce:parallel
 ```
+
+Go [here](https://saucelabs.com/tests) to view the tests.
