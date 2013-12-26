@@ -1,7 +1,8 @@
 Node.js Sauce Labs tutorials
 =============
 
-> A collection of Node.js tutorial showing how to use tests using Sauce Labs.
+> A collection of Node.js tutorial showing how to run tests on the 
+[Sauce Labs](https://saucelabs.com/home) cloud.
 
 ## Tutorial list
 
