@@ -1,9 +1,6 @@
 Parallel tests with Mocha and WD.js 
 =============
 
-In this tutorial you will learn how to run tests in parallel using WD.js 
-and Mocha.
-
 ## 1/ Configure your Sauce Labs credentials
 
 First you may need to create a Sauce Labs account (Go 
