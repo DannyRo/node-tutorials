@@ -17,9 +17,7 @@ export SAUCE_ACCESS_KEY=<SAUCE_ACCESS_KEY>
 ## 2/ Install tools
 
 ```
-npm install -g mocha 
-npm install -g grunt
-npm install -g grunt-init
+npm install -g mocha grunt grunt-init
 git clone git@github.com:saucelabs/grunt-init-sauce.git ~/.grunt-init/sauce
 ```
 
