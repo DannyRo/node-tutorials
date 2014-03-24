@@ -1,6 +1,5 @@
 // An example configuration file.
 exports.config = {
-  // The address of a running selenium server.
   sauceUser: process.env.SAUCE_USERNAME,
   sauceKey: process.env.SAUCE_ACCESS_KEY,
 
