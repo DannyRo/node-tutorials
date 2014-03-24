@@ -12,7 +12,7 @@ npm install
 
 ```bash
 export SAUCE_USERNAME=<username>
-SAUCE_ACCESS_KEY=<access_key>
+export SAUCE_ACCESS_KEY=<access_key>
 ```
 
 ## 3/ run the tests:
